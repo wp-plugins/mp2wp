@@ -1,11 +1,12 @@
 === mp2wp widget ===
 Contributors: Dara Roesner / Avatar name 'Miki' in Metaplace
+Donate link: http://mp.tikitronics.com/mp2wp/
 Tags: metaplace,widget,HTML,metaplace-widget,embed,embedding,remote embed,virtual world,2.5D,3D
 Requires at least: 2.3
 Tested up to: 2.8
 Stable tag: 1.0
 
-mp2wp widget embeds Metaplace worlds in your sidebar and on any blog-post, page or sidebar.
+mp2wp widget embeds your Metaplace world in your Wordpress sidebar and on any blog-post or page.
 
 == Description ==
 
@@ -14,6 +15,7 @@ This widget displays your Metaplace virtual world (http://www.metaplace.com) in 
 The mp2wp widget is featured by Raph Koster, CNET and other media:
 
 http://www.raphkoster.com/2009/06/30/embed-virtual-worlds-anywhere/
+
 http://news.cnet.com/8301-17939_109-10275758-2.html
 
 == Installation ==
